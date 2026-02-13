@@ -1,0 +1,2 @@
+# ls_command_on_Windows_OS_use_method
+LINUXのターミナルコマンドのlsコマンドをwindowsのコマンドプロンプトで活用する手順
